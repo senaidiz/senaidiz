@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sena 👋
 
-<!--
-**senaidiz/senaidiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate interested in **Product Design, UI/UX, and Frontend Development**.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into thoughtful, intuitive, and visually engaging digital experiences. I'm especially interested in the intersection of design and technology — understanding not only *how* something works, but *why* it should work that way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on
+
+- **Product Design:** User experience, interface design, and design thinking
+- **Frontend Development:** Building responsive and interactive web interfaces
+- **Creative Development:** Exploring motion, micro-interactions, and visual storytelling
+
+### Tools & Technologies
+
+**Design:** Figma, UI/UX Design, Prototyping
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+
+**Other:** Git, GitHub, PostgreSQL
+
+### Currently
+
+- Building my product design and frontend portfolio
+- Improving my design-to-code workflow
+- Exploring interaction design and creative web experiences
+
+### Let's connect
+
+[GitHub](https://github.com/senaidiz)
